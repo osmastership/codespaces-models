@@ -2,7 +2,7 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./samples",
+        "./node_modules",
         "-p",
         "*test.py"
     ],
